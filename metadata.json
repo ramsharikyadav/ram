@@ -1,0 +1,5 @@
+{
+  "name": "WhatsApp Contact Broadcaster",
+  "description": "Import Excel contacts and send personalized WhatsApp messages with images.",
+  "requestFramePermissions": []
+}
